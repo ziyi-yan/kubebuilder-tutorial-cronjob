@@ -1,0 +1,3 @@
+version: "2"
+domain: tutorial.kubebuilder.io
+repo: ziyi.dev/kubebuilder-tutorial-cronjob
